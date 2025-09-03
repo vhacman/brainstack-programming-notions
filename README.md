@@ -13,4 +13,4 @@ Classi e oggetti: modelli e istanze concrete; Astrazione: rappresentazione sempl
 Ereditarietà: riuso e specializzazione delle classi; Polimorfismo: metodi con comportamenti diversi; Costruttori e distruttori in C++; Uso di this e dell’operatore *this; La classe std::string e i suoi metodi principali.
 
 ## 01.pdf 
-Rappresentazione del tempo in C++: std::time_t e std::tm; Allocazione dinamica della memoria in C++ Oggetti dinamici (heap) e gestione manuale con new e delete; Inizializzazione dinamica di variabili e array con new e delete[]
+Rappresentazione del tempo in C++: std::time_t e std::tm; Allocazione dinamica della memoria in C++; Oggetti dinamici (heap) e gestione manuale con new e delete; Inizializzazione dinamica di variabili e array con new e delete[]
