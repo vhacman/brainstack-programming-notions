@@ -14,3 +14,6 @@ Ereditarietà: riuso e specializzazione delle classi; Polimorfismo: metodi con c
 
 ## 01.pdf 
 Rappresentazione del tempo in C++: std::time_t e std::tm; Allocazione dinamica della memoria in C++; Oggetti dinamici (heap) e gestione manuale con new e delete; Inizializzazione dinamica di variabili e array con new e delete[]
+
+## 02.pdf 
+Approfondimento sull'uso dei puntatori, indirizzi di memoria, puntatori a oggetti, referenze a oggetti. 
