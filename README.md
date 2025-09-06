@@ -17,3 +17,11 @@ Rappresentazione del tempo in C++: std::time_t e std::tm; Allocazione dinamica d
 
 ## 02.pdf 
 Approfondimento sull'uso dei puntatori, indirizzi di memoria, puntatori a oggetti, referenze a oggetti. 
+
+## 03.pdf
+
+Approfondimento a puntatori a funzioni membro, puntatori a funzioni normale. switch case. 
+
+## METODI
+pagina riassuntiva metodi incontrati fin'ora
+
