@@ -25,6 +25,8 @@ Approfondimento a puntatori a funzioni membro, puntatori a funzioni normale. swi
 ## 04.pdf
 Numeri Reali in Informatica: Floating Point, IEEE 754 e Rappresentazione Fixed Point in C++
 
+## 05.pdf
+Introduzione ai numeri fixed-point, operazioni aritmetiche fondamentali, overloading degli operatori, Applicazioni geometriche e BSP
 ## METODI
 pagina riassuntiva metodi incontrati fin'ora
 
